@@ -202,17 +202,18 @@ h3 {
 }
 
 .section {
-  padding: 54px 0;
+  padding: 110px 0;
 }
 
 .section.alt {
   background: rgba(255, 255, 255, 0.5);
-  border-top: 1 px solid var(--border);
+  border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
 }
 
 .section h2 {
   margin: 0 0 10px;
+  margin-bottom: 18px;
   font-size: 26px;
 }
 
@@ -291,9 +292,17 @@ h3 {
   color: var(--muted);
 }
 
+.about {
+  padding-top: 20px;
+}
+
 .about p {
   max-width: 80ch;
   line-height: 1.7;
+}
+
+.contact {
+  padding-top: 20px;
 }
 
 .contact-lines {
