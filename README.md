@@ -1,14 +1,14 @@
 ## Portfolio Website - Portfolio 2
 
-This repsitory contains my personal portfolio website, created as part of **Portfolio 2** in the Noroff Fron-End Development program (online).
+This repository contains my personal portfolio website, created as part of **Portfolio 2** in the Noroff Front-End Development program (online).
 
-The purpose of this assignment is to demonstrate professional documentation, project presentation, and a clear overview of previous coursework.
+The purpose of this project is to demonstrate professional documentation, clear project presentation, and a clear overview of selected coursework completed during my studies.
 
 ## Description
 
-The portfolio website presents three projects completed during the my studies at Noroff:
+The portfolio website presents three projects completed during my studies at Noroff:
 
-- **Porject Exam 2** - Accomodation booking site built with React
+- **Project Exam 2** - Accommodation booking site built with React
 - **Semester Project 2** - Wiki-style application using a headless WordPress CMS
 - **Javascript Frameworks CA** - eCommerce store built with React.
 
@@ -50,11 +50,11 @@ No build tools or dependencies are required
 
 The portfolio website is deployed an accessible online:
 
-LINK HERE
+https://hanne-stray.netlify.app
 
 ## Notes
 
-This website was created specifically for Portfolio 2 and is inteded as a foundation that can be expanded and refined after graduation.
+This website was created specifically for Portfolio 2 and is intended as a foundation that can be expanded and refined after graduation.
 
 ## Contact
 

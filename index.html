@@ -255,8 +255,8 @@
       function setActive(id) {
         navLinks.forEach((a) => {
           const isHomeLink = a.dataset.section === "home";
-          const shoudlBeActive = a.dataset.section === id && !isHomeLink;
-          a.classList.toggle("active", shoudlBeActive);
+          const shouldBeActive = a.dataset.section === id && !isHomeLink;
+          a.classList.toggle("active", shouldBeActive);
         });
       }
 
