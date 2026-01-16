@@ -61,4 +61,4 @@ This website was created specifically for Portfolio 2 and is intended as a found
 Hanne Stray
 
 - GitHub: https://github.com/HanneStray
-- Email: hanhel55335@noroff.stud.no
+- Email: hanne_stray@hotmail.com
